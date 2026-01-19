@@ -24,7 +24,7 @@ loops, conditionals, and user input/output.
 
 Below is a real execution screenshot of the program:
 
-<img width="653" height="844" alt="Image" src="https://github.com/user-attachments/assets/a49e115c-5776-41bf-a4a8-cc266bea7d00" />
+<img width="653" height="844" alt="Image" "readme.png" />
 
 ![Program Output](readme.png)
 
