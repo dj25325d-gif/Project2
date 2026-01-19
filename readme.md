@@ -24,7 +24,7 @@ loops, conditionals, and user input/output.
 
 Below is a real execution screenshot of the program:
 
-![Program Output](./readme.png)
+<img width="653" height="844" alt="Image" src="https://github.com/user-attachments/assets/a49e115c-5776-41bf-a4a8-cc266bea7d00" />
 
 📌 Ensure `readme.png` is present in the **same repository folder** as this README.
 
