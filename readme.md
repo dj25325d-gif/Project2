@@ -24,9 +24,9 @@ loops, conditionals, and user input/output.
 
 Below is a real execution screenshot of the program:
 
-<img width="653" height="844" alt="Image" src="readme.png" />
+<img width="653" height="844" alt="Image" src="project_out.png" />
 
-![Program Output](readme.png)
+![Program Output](project_out.png)
 
 
 
