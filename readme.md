@@ -26,7 +26,7 @@ Below is a real execution screenshot of the program:
 
 <img width="653" height="844" alt="Image" src="readme.png" />
 
-![Program Output](./readme.png)
+![Program Output](readme.png)
 
 
 
