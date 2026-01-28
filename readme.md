@@ -10,7 +10,7 @@ Below is a **clean, corrected, GitHub-ready `README.md`** that:
 You can **copy-paste this directly** into your `README.md` file.
 
 ---
-
+![](project_out.png)
 ```markdown
 # ⭐ Pattern Generator & Number Analyzer ⭐
 
